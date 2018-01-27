@@ -11,17 +11,18 @@ The law firm I work for books heavy travel, which naturally includes the cancell
 
 TL;DR: This app helps companies limit hits to their bottom line by tracking the usage and expiration of employee air travel credits.
 
-### Features
+### Initial Features aka #gottahaveit
 - User accounts: Regular users (employees who book or use travel)
-- Admin accounts: Those in the accounting department who track employee expense reports
+- Create credits: Users will input the appropriate information for any new travel credits, including but not limited to: Original date purchased, date cancelled, airline, confirmation number, expiration date
+- Edit credits: Users can update a credit when it is partially used.
+- List of air credits will be sortable by columns (date purchased, airline, amount, etc). I kind of feel like this one is a given so it may not need to be listed at all.
 - Regular reminders: App will send timely reminders at regular intervals up until expiration of the credit. This will default to every 30 days but frequency is customizable by users. (Pop-up or email??)
-- Shared access: Users can choose to share their info (travel credits) with other users. This is best for attorneys who share travel booking with their legal assistants.
-- Create a credit: Users will input the appropriate information for any new travel credits, including but not limited to: Original date purchased, date cancelled, airline, confirmation number, expiration date
-- Edit a credit: Users can update a credit when it is partially used.
-- Strike out a credit: Users can update a credit as "complete" or "used in full" when there are no more remaining funds.
-- List of air credits will be sortable by columns (date purchased, airline, amount, etc)
 
-### BONUS FEATURES: Features I would like to implement at a later date:
+### BONUS FEATURES - These seem like features that would be ideal for companies
+- Admin accounts: Those in the accounting department who track employee expense reports
+- Shared access: Users can choose to share their info (travel credits) with other users. This is best for attorneys who share travel booking with their legal assistants.
+
+### BONUS BONUS FEATURES aka #mywishlist
 - Chrome web extension
 - Firefox add-on
 
