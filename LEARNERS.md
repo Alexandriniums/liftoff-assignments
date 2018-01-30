@@ -52,7 +52,7 @@
 - [Garrett, John (@johngarrett718)](https://github.com/johngarrett718/liftoff-assignments)
 - [Mason, Melissa (@giveemmel)](https://github.com/giveemmel/liftoff-assignments)
 - [Thirugnanam, Kokila (@KokilaGit)](https://github.com/KokilaGit/liftoff-assignments)
-- [Haderer, Alexandra (@Alexandriniums)](https://github.com/Alexandriniums/liftoff-assignments)
+- [Haderer, Alexandra (@ahaderer)](https://github.com/ahaderer/liftoff-assignments)
 
 ### Jonathan Ward's Group
 
