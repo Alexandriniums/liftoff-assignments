@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn Account](https://www.linkedin.com/in/alexandrahaderer/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Résumé (PDF)](https://github.com/ahaderer/liftoff-assignments/blob/master/C1-Online_Profiles/Alexandra%20Haderer%20-%20Resume.pdf)
